@@ -1,7 +1,7 @@
 # Project Name
 
 ## Description
-Rust application for Linux file permissions quiz game.
+Rust application for Linux file permissions quiz game. Includes a relevant list mode for commonly appearing file permission. Player can also choose to play the Generated mode where the permission strings and numbers are generated randomly.
 
 ## Installation
 
