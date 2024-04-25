@@ -7,21 +7,21 @@ Rust application for Linux file permissions quiz game.
 
 Clone the repository:
 ```bash
-git clone https://your-repository-url.git
-cd your-project-directory
+git clone https://github.com/Jason-Goon/file_perm_quiz.git
+cd file_perm_quiz
 ```
 
 Build the project:
 ```bash
-cargo build
+cargo build --release
 ```
 
 ## Running
 
 Execute the program:
 ```bash
-cargo run
+cargo run --release
 ```
 
 ## License
-This project is licensed under the Zero-Clause BSD License - see the LICENSE file for details.
+This project is licensed under the Zero-Clause BSD License - see the [LICENSE](LICENSE) file for details.
